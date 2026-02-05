@@ -188,5 +188,5 @@ Board legend:
 
 * **Ameera Albahrani**
 * **Hashem Awad**
-* **Ahmad Faleh**
+* **Ahmed Faleh**
 * **Mazen Hachem**
